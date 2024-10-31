@@ -1,0 +1,19 @@
+{
+  "name": "perelandra-sermons",
+  "description": "A WordPress plugin that allows easy and beautiful management of your sermons.",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-postcss": "^6.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "lost": "^8.0.0",
+    "postcss": "^5.2.12",
+    "postcss-cssnext": "^2.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

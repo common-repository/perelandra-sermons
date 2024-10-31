@@ -1,0 +1,25 @@
+@media screen and (min-width: 48em) {
+	.has-sidebar.pl-sermons-page {
+		#primary {
+			width: 74%;
+		}
+
+		#secondary {
+			width: 20%;
+		}
+	}
+
+	body.page-two-column.woocommerce-cart:not(.archive) #primary .entry-header,
+	body.page-two-column.woocommerce-checkout:not(.archive) #primary .entry-header,
+	body.page-two-column.woocommerce-account:not(.archive) #primary .entry-header {
+		width: 16%;
+	}
+
+	body.page-two-column.woocommerce-cart:not(.archive) #primary .entry-content,
+	body.page-two-column.woocommerce-checkout:not(.archive) #primary .entry-content,
+	body.page-two-column.woocommerce-account:not(.archive) #primary .entry-content {
+		width: 78%;
+	}
+}
+
+/*# sourceMappingURL=twenty-seventeen.css.map */
